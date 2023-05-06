@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="sunbutton" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1125 2436" style="enable-background:new 0 0 1125 2436;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D7BD61;}
+	.st1{fill:none;stroke:#D7BD61;stroke-width:9.5894;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#D7BD61;stroke-width:8.2059;stroke-miterlimit:10;}
+</style>
+<circle id="sunInner" class="st0" cx="562.53" cy="1217.8" r="71.57"/>
+<path id="ray6" class="st1" d="M449.69,1224.82c0,59,47.74,106.75,106.75,106.75"/>
+<path id="ray5" class="st1" d="M556.44,1103.54c-59,0-106.75,47.74-106.75,106.75"/>
+<path id="ray4" class="st1" d="M676.08,1210.29c0-59-47.74-106.75-106.75-106.75"/>
+<path id="ray3" class="st1" d="M569.34,1331.57c59,0,106.75-47.74,106.75-106.75"/>
+<path id="ray2" class="st2" d="M509.85,1142.72c64.64-39.06,144.67,1,144.67,75.07"/>
+<path id="ray" class="st2" d="M652.38,1235.32c0,50.89-74.66,99.27-133.06,65.49"/>
+<path id="ray1" class="st2" d="M503.07,1289.36c-31.31-15.68-53.37-102.84-2.09-140.38"/>
+</svg>

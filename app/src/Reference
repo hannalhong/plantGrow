@@ -1,0 +1,15 @@
+// function EnvironmentFert(props: {isFertilizing: boolean}){
+//     return(
+//         props.isFertilizing ? <Fertilizer/> : <></>
+//     );
+// }
+
+    // if (props.isRaining){
+    //     return(
+    //         <Rain/>
+    //     );
+    // } else {
+    //     return(
+    //         <></>
+    //     );
+    // } 
